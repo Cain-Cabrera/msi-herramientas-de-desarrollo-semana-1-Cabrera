@@ -2,3 +2,5 @@
 Cain Cabrera Bertolazzi
 
 ## Sobre Mí
+
+## Habilidades Técnicas
